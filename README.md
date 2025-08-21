@@ -7,3 +7,5 @@
 1. نصب کتابخانه‌ها:
 ```bash
 pip install -r requirements.txt
+![Feature Importance](results/feature_importance.png)
+
